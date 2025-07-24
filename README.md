@@ -64,23 +64,25 @@ The script will output detailed weather information for the city.
 ## Example Output
 
 ```
-City: London, Country: GB
-Coordinates: 51.51, -0.13
-Weather: Clouds - scattered clouds
-Temperature: 15°C
-Feels Like: 14°C
-Min Temp: 13°C
-Max Temp: 16°C
-Pressure: 1015 hPa
-Humidity: 82%
-Sea Level: N/A hPa
-Ground Level: N/A hPa
+Rishabh_Kumar
+City Name : New Delhi
+City: New Delhi, Country: IN
+Coordinates: 28.6128, 77.2311
+Weather: Clouds - broken clouds
+Temperature: 36.75°C
+Feels Like: 43.75°C
+Min Temp: 36.75°C
+Max Temp: 36.75°C
+Pressure: 993 hPa
+Humidity: 49%
+Sea Level: 993 hPa
+Ground Level: 967 hPa
 Visibility: 10000 meters
-Wind Speed: 4.1 m/s
-Wind Gust: N/A m/s
-Cloudiness: 40%
-Sunrise: 2025-07-24 04:58:17
-Sunset: 2025-07-24 20:45:30
+Wind Speed: 3.81 m/s
+Wind Gust: 4.85 m/s
+Cloudiness: 73%
+Sunrise: 2025-07-24 05:37:49
+Sunset: 2025-07-24 19:17:01
 ```
 
 ---
